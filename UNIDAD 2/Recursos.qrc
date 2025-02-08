@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Logos">
+    <file>../Archivos/98315d8d-db37-4c25-a182-88804c5b07ab.jpg</file>
+    <file>../Archivos/Gatos.png</file>
+    <file>../Archivos/FIT_logo_vertical.png</file>
+    <file>../Archivos/log_uat_nuevo.png</file>
+    <file>2547138d-151e-4651-ae8e-9c4830f6d1d4.jpeg</file>
+    <file>Jinx.jpeg</file>
+  </qresource>
+  <qresource prefix="Ejercicios">
+    <file>2547138d-151e-4651-ae8e-9c4830f6d1d4.jpeg</file>
+    <file>Jinx.jpeg</file>
+  </qresource>
+</RCC>
