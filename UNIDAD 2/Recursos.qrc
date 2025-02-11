@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="Logos">
+    <file>../Archivos/export202502092301563482.png</file>
     <file>../Archivos/98315d8d-db37-4c25-a182-88804c5b07ab.jpg</file>
     <file>../Archivos/Gatos.png</file>
     <file>../Archivos/FIT_logo_vertical.png</file>
@@ -8,7 +9,19 @@
     <file>Jinx.jpeg</file>
   </qresource>
   <qresource prefix="Ejercicios">
+    <file>../Archivos/export202502092342196874.png</file>
+    <file>../Archivos/export202502092342481393.png</file>
+    <file>../Archivos/export202502092342556504.png</file>
+    <file>../Archivos/export202502092116429107.png</file>
+    <file>../Archivos/export202502092135328918.png</file>
+    <file>../Archivos/export202502092201258300.png</file>
+    <file>../Archivos/export202502092210045727.png</file>
+    <file>../Archivos/export202502092217592371.png</file>
+    <file>../Archivos/export202502092224352078.png</file>
+    <file>../Archivos/export202502092235269890.png</file>
+    <file>../Archivos/export202502092244329519.png</file>
     <file>2547138d-151e-4651-ae8e-9c4830f6d1d4.jpeg</file>
+    <file>../Archivos/Adobe Express - file (1).png</file>
     <file>Jinx.jpeg</file>
   </qresource>
 </RCC>

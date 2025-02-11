@@ -30,3 +30,6 @@ if __name__ == "__main__":
     window = MyApp()
     window.show()
     sys.exit(app.exec_())
+
+
+    [":/Ejercicios/Archivos/Adobe Express - file (1).png",":/Ejercicios/Archivos/export202502092116429107.png",":/Ejercicios/Archivos/export202502092135328918.png",":/Ejercicios/Archivos/export202502092201258300.png",":/Ejercicios/Archivos/export202502092210045727.png",":/Ejercicios/Archivos/export202502092217592371.png",":/Ejercicios/Archivos/export202502092224352078.png",":/Ejercicios/Archivos/export202502092235269890.png",":/Ejercicios/Archivos/export202502092244329519.png",":/Ejercicios/Archivos/export202502092342196874.png"]
